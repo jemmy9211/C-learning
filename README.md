@@ -1,2 +1,2 @@
 # C-learning
-about the process of learning c++
+The file of learning C++/C
